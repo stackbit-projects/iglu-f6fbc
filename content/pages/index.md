@@ -5,10 +5,10 @@ sections:
   - type: hero_section
     section_id: hero
     title: Somos sua área de T.I.
-    content: >-
-      We are a brand and design practice. We work closely with you, your team to
-      deliver inspiring work, which enables your organization to grow. [Let's
-      talk](/contact/).
+    content: >
+      Você tem uma e-commerce, um curso online ou qualquer outra presença
+      online, provavelmente precisa também de alguém para cuidar do seu site,
+      servidores e dados. Estamos aqui pra isso.
   - type: portfolio_section
     section_id: latest-projects
     layout_style: tiles
